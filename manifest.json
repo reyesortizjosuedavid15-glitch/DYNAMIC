@@ -1,0 +1,84 @@
+{
+  "generatedBy": "CodeRabbit Coding Agent",
+  "sourceCommit": "30f75632f502e7c057c67988f821904fab1983ff",
+  "workflowRun": 43775916129,
+  "platform": "Windows x64 / GD2.2081 / Geode5.11.2",
+  "inGameValidation": "unverified; FPS not measured",
+  "files": {
+    "DynamicAssist-v0.8.1.geode": "35e11056d3938edae66f4f05dddd4ffb8f35b219881312cfa398c49ed69ec323",
+    "DynamicAssist-v0.8.1.build.json": "10312b60a7d6faf6d0eefb21726d46c52a238a322030d1554b8075e45ab089e0",
+    "DynamicOptimizer-v0.2.0.geode": "50d4817cebb6842d94f1db44c11e06605f136e6d25cc0d8c7ee2dc938d68888f",
+    "DynamicOptimizer-v0.2.0.build.json": "84115fb26a0255486f8ccbdb25a632ab99592e527338889d56f6f8cf7e81c43a",
+    "DynamicParticlesLite-v0.2.0.geode": "4a8f03ca35bbcb47f0628e67d8095dec9266f4094c61300c990e2281c2273656",
+    "DynamicParticlesLite-v0.2.0.build.json": "80ab729b22755521c2bc11b35aaa65464df3388b6e1e544be18a99eaca4bcb0d",
+    "DynamicGlowLite-v0.1.2.geode": "9d8438d0e7201e25ba3eed009bf486957b0125b2e687aa32418ea104f2932c44",
+    "DynamicGlowLite-v0.1.2.build.json": "1a4666e38d4587a9a2fec5422b42af1f1ced3319e3c30d5716fe8ad17194e40e",
+    "DynamicEffectsLite-v0.2.0.geode": "2429f07c4188bfe92cbfd7119414e180c5832a5825544e0ca4c7dddf0515adbe",
+    "DynamicEffectsLite-v0.2.0.build.json": "5f18947017b0b1c942719a3b28e7bd81f261bcd19609cfd6e1b81da9d029dcc2",
+    "Dynamic-object-IDs-3993.csv": "f1588e3f9d0632d8c57c1fd7adcec8a50836f556649b92beba5b07e2427b427b",
+    "Dynamic-object-IDs-3993.provenance.json": "48df437b56f9acd0f63fb97c002db340c6e5d619defa642b1836d9875a1d46fc",
+    "INSTALACION.md": "f6df6a6eed9150cd9d524df2a991bcc39f7125c20b60f4602f4f988bd8801d5e"
+  },
+  "builds": [
+    {
+      "generatedBy": "CodeRabbit Coding Agent",
+      "sourceCommit": "30f75632f502e7c057c67988f821904fab1983ff",
+      "workflowRun": 43775916129,
+      "artifactId": 14186143203,
+      "artifactDigest": "sha256:56616b4f34589819bb6aab979aea196ac19164314f1a84f43551ff2bae983fec",
+      "sha256": "35e11056d3938edae66f4f05dddd4ffb8f35b219881312cfa398c49ed69ec323",
+      "geode": "5.11.2",
+      "geometryDash": "2.2081",
+      "platform": "Windows x64",
+      "inGameValidation": "unverified; game unavailable"
+    },
+    {
+      "generatedBy": "CodeRabbit Coding Agent",
+      "sourceCommit": "6291c3363e2c7c796b1774498f01ecbe812d2932",
+      "workflowRun": 43774750667,
+      "artifactId": 14185931543,
+      "artifactDigest": "sha256:e378f503ec8ba4f307b4df9d8ed9a04903d3293326c9f1f491316d162930eac0",
+      "sha256": "50d4817cebb6842d94f1db44c11e06605f136e6d25cc0d8c7ee2dc938d68888f",
+      "geode": "5.11.2",
+      "geometryDash": "2.2081",
+      "platform": "Windows x64",
+      "inGameValidation": "unverified; game unavailable"
+    },
+    {
+      "generatedBy": "CodeRabbit Coding Agent",
+      "sourceCommit": "6291c3363e2c7c796b1774498f01ecbe812d2932",
+      "workflowRun": 43774750667,
+      "artifactId": 14185846863,
+      "artifactDigest": "sha256:34b0fd90a2fdfad36a4885893a46ab3cd7092c93c5f22914d6cc8ac08a87d915",
+      "sha256": "4a8f03ca35bbcb47f0628e67d8095dec9266f4094c61300c990e2281c2273656",
+      "geode": "5.11.2",
+      "geometryDash": "2.2081",
+      "platform": "Windows x64",
+      "inGameValidation": "unverified; game unavailable"
+    },
+    {
+      "generatedBy": "CodeRabbit Coding Agent",
+      "sourceCommit": "6291c3363e2c7c796b1774498f01ecbe812d2932",
+      "workflowRun": 43774750667,
+      "artifactId": 14185583126,
+      "artifactDigest": "sha256:7bbd1bede3f437104d1243219b36dcddb4257753f47ac4122ff1783126cdc78a",
+      "sha256": "9d8438d0e7201e25ba3eed009bf486957b0125b2e687aa32418ea104f2932c44",
+      "geode": "5.11.2",
+      "geometryDash": "2.2081",
+      "platform": "Windows x64",
+      "inGameValidation": "unverified; game unavailable"
+    },
+    {
+      "generatedBy": "CodeRabbit Coding Agent",
+      "sourceCommit": "6291c3363e2c7c796b1774498f01ecbe812d2932",
+      "workflowRun": 43774750667,
+      "artifactId": 14185732696,
+      "artifactDigest": "sha256:0ddc786b1250f4492166fe0976639a1939e087c7864e2d8a925ea422681709f6",
+      "sha256": "2429f07c4188bfe92cbfd7119414e180c5832a5825544e0ca4c7dddf0515adbe",
+      "geode": "5.11.2",
+      "geometryDash": "2.2081",
+      "platform": "Windows x64",
+      "inGameValidation": "unverified; game unavailable"
+    }
+  ]
+}

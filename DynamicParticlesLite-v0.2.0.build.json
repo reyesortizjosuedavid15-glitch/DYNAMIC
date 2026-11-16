@@ -1,0 +1,12 @@
+{
+  "generatedBy": "CodeRabbit Coding Agent",
+  "sourceCommit": "6291c3363e2c7c796b1774498f01ecbe812d2932",
+  "workflowRun": 43774750667,
+  "artifactId": 14185846863,
+  "artifactDigest": "sha256:34b0fd90a2fdfad36a4885893a46ab3cd7092c93c5f22914d6cc8ac08a87d915",
+  "sha256": "4a8f03ca35bbcb47f0628e67d8095dec9266f4094c61300c990e2281c2273656",
+  "geode": "5.11.2",
+  "geometryDash": "2.2081",
+  "platform": "Windows x64",
+  "inGameValidation": "unverified; game unavailable"
+}

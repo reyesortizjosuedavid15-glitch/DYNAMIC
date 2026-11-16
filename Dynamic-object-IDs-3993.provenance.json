@@ -1,0 +1,10 @@
+{
+  "generatedBy": "CodeRabbit Coding Agent",
+  "description": "Factual editor IDs only; membership is not a physics support guarantee",
+  "count": 3993,
+  "sources": [
+    "https://github.com/Alphalaneous/GDObjectNames/blob/8b74b132c55cbee6231a035c656dd1224e37a7cb/objects.csv",
+    "https://github.com/geode-sdk/bindings/blob/b17b28de467984a31ad7994920a593a8b9d14ea3/bindings/2.2081/inline/GameObject.cpp"
+  ],
+  "sha256": "f1588e3f9d0632d8c57c1fd7adcec8a50836f556649b92beba5b07e2427b427b"
+}
